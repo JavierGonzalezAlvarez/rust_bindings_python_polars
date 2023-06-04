@@ -1,0 +1,3 @@
+maturin
+maturin[patchelf]
+pandas==1.5
